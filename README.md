@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Pragya 👋
 
-<!--
-**pragyapaliwalsharma-hue/pragyapaliwalsharma-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Analyst and Software Engineer building projects in Python, SQL, JavaScript, and React.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in data analytics, software engineering, and problem solving
+- Building real-world projects using data, dashboards, and web applications
+- Currently learning Python, SQL, React, and full-stack development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Programming: Python, JavaScript, SQL
+- Data Analytics: Excel, Pandas, NumPy, Power BI/Tableau
+- Software Engineering: React, Node.js, Git, GitHub
+- Databases: MySQL, PostgreSQL, MongoDB
+
+## Featured Projects
+- Sales Data Analysis Dashboard
+- Retail Store SQL Analysis
+- Expense Tracker App
+- Job Application Tracker
+
+## Connect With Me
+- LinkedIn: add your LinkedIn link here
+- Email: add your professional email here
