@@ -20,5 +20,5 @@ I'm an aspiring Data Analyst and Software Engineer building projects in Python, 
 - Job Application Tracker
 
 ## Connect With Me
-- LinkedIn: add your LinkedIn link here
-- Email: add your professional email here
+- LinkedIn: [add your LinkedIn link here](https://www.linkedin.com/in/pragya-sharma-5324b4a3/)
+- Email: pragyapaliwal.sharma@gmail.com
