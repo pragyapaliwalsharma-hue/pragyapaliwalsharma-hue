@@ -1,4 +1,4 @@
-# Hi, I'm Pragya 👋
+# Hi, I'm Pragya
 
 I'm an aspiring Data Analyst and Software Engineer building projects in Python, SQL, JavaScript, and React.
 
