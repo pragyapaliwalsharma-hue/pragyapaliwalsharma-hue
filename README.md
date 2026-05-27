@@ -15,6 +15,7 @@ I'm an aspiring Data Analyst and Software Engineer building projects in Python, 
 
 ## Featured Projects
 - Sales Data Analysis Dashboard
+- Movies Summary ML & DL Model
 - Retail Store SQL Analysis
 - Expense Tracker App
 - Job Application Tracker
